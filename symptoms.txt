@@ -1,0 +1,4 @@
+Fever
+Cough
+Headache
+Nausea

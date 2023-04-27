@@ -1,0 +1,3 @@
+COVID-19:Fever,Cough,Headache
+Flu:Fever,Cough,Headache,Nausea
+Migraine:Headache
